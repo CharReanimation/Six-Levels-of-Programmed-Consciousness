@@ -23,7 +23,7 @@
 ## 第四层 (ReferenceError: x is not defined)
 ### 🌌 没有意识，什么都没有
 连我是谁都未曾出现； 连空都不叫空；  
-没有看到，没有感受，没有“没有”。  
+没有看到，没有感受，没有“没有”。
 <br>
 <br>
 ## 第五层 (let x; // x is undefined)
